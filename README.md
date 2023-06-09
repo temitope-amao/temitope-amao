@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @temitope-amao
-- 👀 I’m interested in Cloud Engineering (Architecture and Implementation). 
+- 👀 I’m interested in Cloud Engineering (Architecture and Implementation and Devops). 
 - 🌱 I’m currently learning CloudFormation tools Terraform, Kuberbetes and Docker 
 - 📫 How to reach me olatopeamao@gmail.com
 
